@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "38f13a66-b6bb-41e2-83dd-03cc357199b6",
+		"name": "POS MALAYSIA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "41351811"
+	},
+	"item": [
+		{
+			"name": "Country",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PostcodeFrom",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PostcodeTo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ShippingRate",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
